@@ -4,7 +4,7 @@
     <Description about="urn:mozilla:install-manifest">
         <em:id>langpack-bb@mimosapudica.org</em:id>
 	<em:name>Babyish Language Pack for Firefox</em:name>
-        <em:description>Babyish Language Pack for Firefox v0.0.6, suitable up to v22.0</em:description>
+        <em:description>Babyish Language Pack for Firefox v0.0.8, suitable up to v32.0</em:description>
         <em:version>0.0.8</em:version>
         <em:type>8</em:type> <!-- 8 : Language Pack -->
         <em:creator>Tom K. C. Chiu</em:creator>
