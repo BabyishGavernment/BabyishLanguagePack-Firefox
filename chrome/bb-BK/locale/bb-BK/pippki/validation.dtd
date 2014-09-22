@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  validation.crlmanager.label             "Männeij ÇRL">
+<!ENTITY  validation.crlmanager.description       "These Certificate Revocation Lists (CRL) are stored in your certificate database:">
+<!ENTITY  validation.crlname.label                "Neim">
+<!ENTITY  validation.crllastupdate.label          "Last Ùpdeit">
+<!ENTITY  validation.crlnextupdate.label          "Nèist Ùpdeit">
+<!ENTITY  validation.crlautoupdateenabled.label   "ÒtoÙpdeit">
+<!ENTITY  validation.crlautoupdatestatus.label    "ÒtoÙpdeit Steitùs">
+<!ENTITY  validation.deletecrl.label              "Dilit">
+<!ENTITY  validation.deletecrl.accesskey          "D">
+<!ENTITY  validation.updatecrl.label              "Ùpdeit">
+<!ENTITY  validation.updatecrl.accesskey          "U">
+<!ENTITY  validation.advanced.label               "Setiŋs">
+<!ENTITY  validation.advanced.accesskey           "S">
+
+<!ENTITY  validation.crl.autoupdate.title         "Òtomätik ÇRL Ùpdeit Priförènses">
+<!ENTITY  validation.crl.autoupdate.enable.label  "Enable Automatic Ùpdeit für nigè ÇRL">
+<!ENTITY  validation.crl.autoupdate.time.label1   "Ùpdeit">
+<!ENTITY  validation.crl.autoupdate.time.label2   "Day(s) before Next Update date">
+<!ENTITY  validation.crl.autoupdate.freq.label1   "Ùpdeit evri">
+<!ENTITY  validation.crl.autoupdate.freq.label2   "Dei(s)">
+<!ENTITY  validation.crl.autoupdate.url.label     "CRL would be imported From:">
+<!ENTITY  crl.import.status.title                 "CRL Import Status">
+<!ENTITY  crl.import.success.message              "The Certificate Revocation List (CRL) was successfully imported.">
+<!ENTITY  crl.issuer.label                        "CRL Issued By:">
+<!ENTITY  crl.issuer.org.label                    "Organization: ">
+<!ENTITY  crl.issuer.orgunit.label                "Yunit: ">
+<!ENTITY  crl.import.nextupdate.label             "Nèist Ùpdeit On: ">
+<!ENTITY  crl.autoupdate.fail.cnt.label           "Previous Consecutive Update Failures: ">
+<!ENTITY  crl.autoupdate.fail.reason.label        "Details of Last Update Failure: ">
+<!ENTITY  edit.button                             "Setiŋs">

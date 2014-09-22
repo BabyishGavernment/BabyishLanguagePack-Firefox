@@ -1,0 +1,22 @@
+<!-- Jenereiten bai MozLCDB, http://moztw.org/tools/mozlcdb -->
+<!ENTITY colorsDialog.title "Kalar">
+<!ENTITY window.width "38em">
+<!ENTITY  window.macWidth "41em">
+
+<!ENTITY allowPagesToUse.label "Alaw peijs tu čūs their own colors, instead of my selections above">
+<!ENTITY allowPagesToUse.accesskey "A">
+
+<!ENTITY color "Kalar en Bäkgraund">
+<!ENTITY textColor.label "Tekst:">
+<!ENTITY textColor.accesskey "t">
+<!ENTITY backgroundColor.label "Bäkgraund">
+<!ENTITY backgroundColor.accesskey "b">
+<!ENTITY useSystemColors.label "Yus sistèm dè kalar">
+<!ENTITY useSystemColors.accesskey "s">
+<!ENTITY underlineLinks.label "Ädd ùndèrlain tu webliŋks">
+<!ENTITY underlineLinks.accesskey "W">
+<!ENTITY links "Liŋk dè Kalar">
+<!ENTITY linkColor.label "Mi-visit dè liŋk">
+<!ENTITY linkColor.accesskey "l">
+<!ENTITY visitedLinkColor.label "Visit-zo dè liŋk">
+<!ENTITY visitedLinkColor.accesskey "v">

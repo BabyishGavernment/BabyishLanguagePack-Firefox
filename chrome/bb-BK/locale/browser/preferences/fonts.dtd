@@ -1,0 +1,75 @@
+<!ENTITY fontsDialog.title "Font">
+<!ENTITY window.width "39em">
+<!ENTITY window.macWidth "43em">
+<!ENTITY window.unixWidth "41em">
+
+<!ENTITY language.label "Fonts für:">
+<!ENTITY language.accesskey "F">
+
+<!ENTITY size.label "Saiz:">
+<!ENTITY size.accesskey1 "s">
+<!ENTITY size.accesskey2 "z">
+
+<!ENTITY proportional.label "Proporçionol:">
+<!ENTITY proportional.accesskey "P">
+
+<!ENTITY serif.label "Serif :">
+<!ENTITY serif.accesskey "S">
+<!ENTITY sans-serif.label "Sans serif:">
+<!ENTITY sans-serif.accesskey "n">
+<!ENTITY monospace.label "Monospeis:">
+<!ENTITY monospace.accesskey "M">
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
+<!ENTITY fantasy.label "Fäntasiik:">
+<!ENTITY fantasy.accesskey "F">
+<!ENTITY cursive.label "Körsiv:">
+<!ENTITY cursive.accesskey "I">
+
+<!ENTITY fontsize.units "emaphikseli">
+
+<!ENTITY font.langGroup.latin1 "Kwenshonalanga">
+<!ENTITY font.langGroup.latin2 "Ekhatsi Yuropik">
+<!ENTITY font.langGroup.japanese "Nipponiš">
+<!ENTITY font.langGroup.trad-chinese "Tradiçionol Ẑōŋwén (Táiwan)">
+<!ENTITY font.langGroup.simpl-chinese "Simpolaisen Ẑōŋwén (ẐPR)">
+<!ENTITY font.langGroup.trad-chinese-hk "Tradiçionol Ẑōŋwén (Höŋgóŋ)">
+<!ENTITY font.langGroup.korean "Hangukiš">
+<!ENTITY font.langGroup.cyrillic "Sisiriliki">
+<!ENTITY font.langGroup.baltic "Sibalthiki">
+<!ENTITY font.langGroup.el "Hellasïš">
+<!ENTITY font.langGroup.turkish "Türkiyeiš">
+<!ENTITY font.langGroup.unicode "Letinye Tilwimi">
+<!ENTITY font.langGroup.user-def "Umsebentisi uchaziwe">
+<!ENTITY font.langGroup.thai "Sithayi">
+<!ENTITY font.langGroup.hebrew "Sihebheru">
+<!ENTITY font.langGroup.arabic "Si-Arabi">
+<!ENTITY font.langGroup.devanagari "Sidivanagari">
+<!ENTITY font.langGroup.tamil "Sithami">
+<!ENTITY font.langGroup.armenian "Si-Ameniya">
+<!ENTITY font.langGroup.bengali "Sibengali">
+<!ENTITY font.langGroup.canadian "Isilabari lehlangene Yesikhanada">
+<!ENTITY font.langGroup.ethiopic "Sitopiya">
+<!ENTITY font.langGroup.georgian "Sijoji">
+<!ENTITY font.langGroup.gujarati "Sigujarati">
+<!ENTITY font.langGroup.gurmukhi "Sigumukhi">
+<!ENTITY font.langGroup.khmer "Sikhama">
+<!ENTITY font.langGroup.malayalam "Simalayalamu">
+<!ENTITY font.langGroup.oriya "Oriyeg">
+<!ENTITY font.langGroup.telugu "Telugueg">
+<!ENTITY font.langGroup.kannada "Kannadeg">
+<!ENTITY font.langGroup.sinhala "Sinhala">
+<!-- Minimum font size -->
+<!ENTITY minSize.label "Minimùm font saiz:">
+<!ENTITY minSize.accesskey "o">
+<!ENTITY minSize.none "Mwu">
+<!-- default font type -->
+
+<!ENTITY useDefaultFontSerif.label "Serif">
+<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+
+<!ENTITY allowPagesToUse.label "Peijs wa keyi silekt fonts tu yus apart from silekten fonts àbauv">
+<!ENTITY allowPagesToUse.accesskey "A">
+
+<!ENTITY languages.customize.Charset.grouplabel "Kuphawula Tinhlavu Temagama">
+<!ENTITY languages.customize.DefaultCharset.label "Idifolthi yekukhoda emagama:">
+<!ENTITY languages.customize.DefaultCharset.accesskey "E">

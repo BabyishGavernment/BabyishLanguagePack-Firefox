@@ -1,0 +1,17 @@
+<!ENTITY feedPage.title
+  "Vyuiŋ Fīd">
+<!ENTITY feedName
+  "fīd">
+
+<!ENTITY feedSubscriptionInfo1a "Ni-1-gè-wa &#8220;">
+<!ENTITY feedSubscriptionInfo1b "&#8221; of frequently changing content on this site.">
+<!ENTITY feedSubscriptionInfo2 "You can subscribe to this feed to receive updates when this content changes.">
+<!ENTITY feedSubscribeNow
+  "Jigùm-ga Sùbskraib">
+<!ENTITY subscribeUsing "Sùbskraib tu nigè fīd yusiŋ ">
+<!ENTITY feedLiveBookmarks
+  "Laiv Būkmarks">
+
+<!ENTITY error.title "Örā when prosesiŋ fīd">
+<!ENTITY error.message "There was an error processing this feed. It's our fault. :-( You can still subscribe to the feed if you know what it is. For reference, the error was:">
+

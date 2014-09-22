@@ -1,0 +1,11 @@
+<!-- extracted from content/openLocation.xul -->
+
+<!ENTITY enter.label "Input websàit dè loukeiçion (URL) or opèn neidè fail:">
+<!ENTITY chooseFile.label "Čūs fail…">
+<!ENTITY newTab.label "Niu Täb">
+<!ENTITY newWindow.label "Niu Window">
+<!ENTITY topTab.label "Körrènt Täb">
+<!ENTITY topWindow.label "Körrènt Window">
+<!ENTITY caption.label "Opèn websàit dè loukeiçion">
+<!ENTITY openWhere.label "Opèn from:">
+<!ENTITY openBtn.label "Opèn">

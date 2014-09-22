@@ -1,0 +1,41 @@
+<!ENTITY blockPopups.label "Blokk pop-up windows">
+<!ENTITY blockPopups.accesskey "B">
+<!ENTITY popupExceptions.label "Iksepçions……">
+<!ENTITY popupExceptions.accesskey "I">
+
+<!ENTITY loadImages.label "Load images automatically">
+<!ENTITY loadImages.accesskey "I">
+<!ENTITY exceptions.label "Iksepçions……">
+<!ENTITY exceptions.accesskey "s">
+
+<!ENTITY enableJavaScript.label "Enable JavaScript">
+<!ENTITY enableJavaScript.accesskey "J">
+<!ENTITY advancedJS.label "Gokab……">
+<!ENTITY advancedJS.accesskey "G">
+
+<!ENTITY enableJava.label "Enable Java">
+<!ENTITY enableJava.accesskey "n">
+
+
+<!ENTITY  fontsAndColors.label "Kalar en font">
+
+<!ENTITY  defaultFont.label "Difàult font:">
+<!ENTITY  defaultFont.accesskey "D">
+<!ENTITY  defaultSize.label "Saiz:">
+<!ENTITY defaultSize.accesskey "S ">
+
+<!ENTITY  advancedFonts.label "Gokab……">
+<!ENTITY  advancedFonts.accesskey  "k">
+
+<!ENTITY  colors.label                "Kalar……">
+<!ENTITY  colors.accesskey            "K">
+
+
+<!ENTITY languages.label              "語言">
+<!ENTITY chooseLanguage.label         "請選擇瀏覽支援多國語言的網頁時要優先顯示哪種語言">
+<!ENTITY chooseButton.label           "選擇…">
+<!ENTITY chooseButton.accesskey       "o">
+
+
+
+ 

@@ -1,0 +1,60 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Minimais">
+<!ENTITY bringAllToFront.label    "Briŋ Ol tu Front">
+<!ENTITY zoomWindow.label         "Zūm">
+<!ENTITY windowMenu.label         "Window">
+
+<!ENTITY helpMenu.label           "Help"> 
+<!ENTITY helpMenu.accesskey       "H"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Help"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct.label       "Àbaut &brandShortName;">
+<!ENTITY aboutProduct.accesskey   "A">
+<!ENTITY aboutCmd.label         "Àbaut &brandFullName;">
+<!ENTITY aboutCmd.accesskey       "A">
+<!ENTITY helpContents.label       "Help Kontents">
+<!ENTITY helpContents.accesskey   "H">
+<!ENTITY helpContentsMac.label    "&brandShortName; Help">
+<!ENTITY helpForIEUsers.label     "Für Internet Explorer dè Yusās">
+<!ENTITY helpForIEUsers.accesskey "I">
+<!ENTITY openHelp.commandkey      "VK_F1">
+<!ENTITY openHelpMac.commandkey "VK_HELP">
+<!-- LOCALIZATION NOTE openHelpMac.commandkey and openHelpMac.modifiers
+                       are all the necessary keys to hit OS X's open-help 
+                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
+<!ENTITY openHelpMac.commandkey           "?">
+<!ENTITY openHelpMac.modifiers            "accel,shift">
+<!ENTITY openHelpMac.frontendCommandkey   "?">
+<!ENTITY openHelpMac.frontendModifiers    "accel">
+<!ENTITY openHelpMac2.commandkey "/">
+<!ENTITY openHelpMac2.modifiers "accel,shift">
+<!ENTITY openHelpMac2.frontendCommandkey "?">
+<!ENTITY openHelpMac2.frontendModifiers "accel">
+
+<!ENTITY helpMac.commandkey           "?">
+<!ENTITY helpReleaseNotes.label         "Rīlīs Nouts">
+<!ENTITY helpReleaseNotes.accesskey     "N">
+<!ENTITY updateCmd.label                "Ček für Ùpdeits……">
+<!ENTITY updateCmd.accesskey            "o">
+
+<!ENTITY preferencesCmdMac.label        "Priförènses…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+
+<!ENTITY servicesMenuMac.label          "Sörveises">
+
+<!ENTITY hideThisAppCmdMac.label        "Haid &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+
+<!ENTITY hideOtherAppsCmdMac.label      "Haid Kitadè">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+
+<!ENTITY showAllAppsCmdMac.label        "Displei Ol">

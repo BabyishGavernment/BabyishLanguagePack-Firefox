@@ -1,0 +1,5 @@
+<!ENTITY window.title              "Silekt fouldā">
+<!ENTITY window.style              "width: 36em; height: 18em;">
+<!ENTITY moveTo.label              "Mūv tu:">
+<!ENTITY newFolderButton.label     "Niu fouldā">
+<!ENTITY newFolderButton.accesskey "N">

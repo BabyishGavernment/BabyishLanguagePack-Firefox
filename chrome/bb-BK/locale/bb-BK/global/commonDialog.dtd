@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+   - Kontents valideiten für SeaMonkey v2.
+   - Modifaien from jenereiten fayl from MozLCDB, http://moztw.org/tools/mozlcdb -->
+
+<!ENTITY header.label     "Simpol-na hēdā">
+<!ENTITY message.label    "Rīsörven speis für tekst.">
+<!ENTITY editfield0.label "Yusāneim: 
+<!ENTITY editfield1.label "Paswörd:> 
+<!ENTITY editfield2.label "Konförm Paswörd:">
+<!ENTITY checkbox.label   "Ček">
+<!ENTITY copyCmd.label    "Kopi">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Ol silekten">
+<!ENTITY selectAllCmd.accesskey "O">

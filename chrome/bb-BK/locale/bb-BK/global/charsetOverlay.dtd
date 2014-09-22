@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+   - Kontents valideiten für SeaMonkey v2.
+   - Modifaien from jenereiten fayl from MozLCDB, http://moztw.org/tools/mozlcdb -->
+
+<!-- extracted from charsetOverlay.xul -->
+<!ENTITY charsetMenu.label             "Leŋgueij en Käraktā Enkoudiŋ">
+<!ENTITY charsetMenu.accesskey         "C">
+<!ENTITY charsetMenuAutodet.label      "Òtoditekt">
+<!ENTITY charsetMenuAutodet.accesskey  "O">
+<!ENTITY charsetMenuMore.label         "更多字元編碼">
+<!ENTITY charsetMenuMore.accesskey     "M">
+<!ENTITY charsetMenuMore1.label        "West Yuropik">
+<!ENTITY charsetMenuMore1.accesskey    "W">
+<!ENTITY charsetMenuMore2.label        "Ist Yuropik">
+<!ENTITY charsetMenuMore2.accesskey    "I">
+<!ENTITY charsetMenuMore3.label        "CJK Leŋgueijs">
+<!ENTITY charsetMenuMore3.accesskey    "C">
+<!ENTITY charsetMenuMore4.label        "東南亞與西南亞語言">
+<!ENTITY charsetMenuMore4.accesskey    "S">
+<!ENTITY charsetMenuMore5.label        "中東語言">
+<!ENTITY charsetMenuMore5.accesskey    "M">
+<!ENTITY charsetMenuUnicode.label      "Yunikoud">
+<!ENTITY charsetMenuUnicode.accesskey  "U">
+<!ENTITY charsetCustomize.label        "Kùstomais…">
+<!ENTITY charsetCustomize.accesskey    "K">

@@ -1,0 +1,29 @@
+<!-- -*- Mode: Java; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*-
+-->
+
+<!ENTITY intro.label "Ukhetse kuvula">
+<!ENTITY from.label "ibuya ku:">
+<!ENTITY actionQuestion.label "Kufanele enteni &brandShortName; ngalelifayela leli?">
+
+<!ENTITY openWith.label "Vula nge">
+<!ENTITY openWith.accesskey "v">
+<!ENTITY other.label "Lokunye...">
+
+<!ENTITY save.label "Seva kudiski">
+<!ENTITY save.accesskey "s">
+
+<!ENTITY rememberChoice.label "Yenta loku othomathikhali kulamafayela lanjengalawa kusukela nyalo.">
+<!ENTITY rememberChoice.accesskey "o">
+
+<!ENTITY settingsChange.label "Settings can be changed in the Content section of Tools, Options.">
+<!ENTITY settingsChangeMac.label "Settings can be changed in the Content section of &brandShortName;, Preferences.">
+<!ENTITY settingsChangeUnix.label "Settings can be changed in the Content section of Edit, Preferences.">
+
+<!ENTITY whichIsA.label "lokuyi:">
+
+<!ENTITY chooseHandlerMac.label "Khetsa...">
+<!ENTITY chooseHandlerMac.accesskey "K">
+<!ENTITY chooseHandler.label "Tfunguluta...">
+<!ENTITY chooseHandler.accesskey "T">
+
+<!ENTITY unknownPromptText.label "Would you like to save this file?">

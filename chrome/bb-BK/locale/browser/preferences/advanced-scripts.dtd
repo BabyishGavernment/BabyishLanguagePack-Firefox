@@ -1,0 +1,19 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY advancedJSDialog.title         "Gokab-dè JavaScript Setiŋs">
+<!ENTITY window.width                   "37em">
+
+<!ENTITY allowScripts.label             "Alaw skripts tu:">
+
+<!ENTITY moveResizeWindows.label        "Mūv or rīsaiz iksistiŋ windows">
+<!ENTITY moveResizeWindows.accesskey    "M">
+<!ENTITY moveResizeNotAllowed.label     "Skripts butdùk mūv or rīsaiz iksistiŋ windows">
+<!ENTITY raiseLowerWindows.label        "Raise or lower windows">
+<!ENTITY raiseLowerWindows.accesskey    "R">
+<!ENTITY disableContextMenus.label      "Disàbol or rīpleis kontekst menyus">
+<!ENTITY disableContextMenus.accesskey  "D">
+<!ENTITY hideStatusBar.label            "Haid steitùs bār">
+<!ENTITY hideStatusBar.accesskey        "H">
+<!ENTITY changeStatusBar.label          "Čeinj steitùsbār dè tekst">
+<!ENTITY changeStatusBar.accesskey      "C">

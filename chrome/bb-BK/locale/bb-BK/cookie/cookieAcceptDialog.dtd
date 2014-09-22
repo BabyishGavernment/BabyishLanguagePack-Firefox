@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. 
+   - Kontents välideiten für SeaMonkey v2.
+
+   - Modifaien from jenereiten fayl from MozLCDB, http://moztw.org/tools/mozlcdb -->
+
+<!ENTITY     props.box.label 		    "Àbaut nigè Kūky">
+<!ENTITY     props.name.label 		    "Neim:">
+<!ENTITY     props.value.label 		    "Välyu:">
+<!ENTITY     props.domain.label             "Host:">
+<!ENTITY     props.path.label               "Paŧ:">
+<!ENTITY     props.secure.label             "Send Für:">
+<!ENTITY     props.expires.label            "Ikspairs:">
+<!ENTITY     props.policy.label             "Poliçi:">
+
+<!ENTITY     button.allow.label             "Keyi">
+<!ENTITY     button.allow.accesskey         "K">
+<!ENTITY     button.session.label           "Keyi für Ol Sessions">
+<!ENTITY     button.session.accesskey       "O">
+<!ENTITY     button.deny.label              "Butdùk">
+<!ENTITY     button.deny.accesskey          "B">
+
+<!ENTITY     dialog.title                   "Konförm setiŋ kūkys">
+<!ENTITY     dialog.remember.label          "Yus midè čūsenī für ol kūkys from nigè domein">
+<!ENTITY     dialog.remember.accesskey      "U">

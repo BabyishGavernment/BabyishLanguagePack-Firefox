@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+   - Jenereiten bai MozLCDB, http://moztw.org/tools/mozlcdb -->
+
+<!ENTITY position.label "Posiçion:">
+<!ENTITY tile.label "Tailiŋ pikcö">
+<!ENTITY center.label "Sencrolaisiŋ pikcö">
+<!ENTITY stretch.label "Strečiŋ pikcö">
+<!ENTITY preview.label "Privyu">
+<!ENTITY color.label "Kalar:">
+<!ENTITY setDesktopBackground.title "Set pikcö as bäkgraund">
+<!ENTITY openDesktopPrefs.label "Opèn desktop dè priförèns">
+<!ENTITY closeWindow.key "w">

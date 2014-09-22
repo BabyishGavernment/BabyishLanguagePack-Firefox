@@ -1,0 +1,28 @@
+<!ENTITY find.label                "Söč:">
+<!ENTITY find.accesskey            "S">
+<!ENTITY expand.label              "Byú">
+<!ENTITY expand.accesskey          "B">
+<!ENTITY collapse.label            "Neimai">
+<!ENTITY collapse.accesskey        "N">
+<!ENTITY byDate.label "Bai Deit">
+<!ENTITY byDate.accesskey "D">
+<!ENTITY bySite.label "Bai Websàit">
+<!ENTITY bySite.accesskey "W">
+<!ENTITY view.label "Vyu">
+<!ENTITY view.accesskey "w">
+<!ENTITY byMostVisited.label "Bai Most Visited">
+<!ENTITY byMostVisited.accesskey "V">
+<!ENTITY byLastVisited.label "Bai Last Visited">
+<!ENTITY byLastVisited.accesskey "L">
+<!ENTITY byDayAndSite.label "Bai Deit en Websàit">
+<!ENTITY byDayAndSite.accesskey "t">
+<!ENTITY openLinkInWindow.label "Opèn">
+<!ENTITY openLinkInWindow.accesskey "O">
+<!ENTITY openInNewTab.label "Opèn in Niu Täb">
+<!ENTITY openInNewTab.accesskey "T">
+<!ENTITY openInNewWindow.label "Opèn in Niu Window">
+<!ENTITY openInNewWindow.accesskey "W">
+<!ENTITY bookmarkLink.label "Būkmark nigè Liŋk……">
+<!ENTITY bookmarkLink.accesskey "B">
+<!ENTITY copyLink.label "Kopi Liŋk Loukeiçion">
+<!ENTITY copyLink.accesskey "K">

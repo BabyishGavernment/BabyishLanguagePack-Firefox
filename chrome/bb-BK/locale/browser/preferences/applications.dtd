@@ -1,0 +1,15 @@
+<!ENTITY typeColumn.label "Failtaip">
+<!ENTITY typeColumn.accesskey "T">
+
+<!ENTITY  actionColumn2.label     "Akçion">
+<!ENTITY  actionColumn2.accesskey "A">
+
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+
+<!ENTITY filter.emptytext "Söč">
+<!ENTITY filter.label "Söč:">
+<!ENTITY filter.accesskey "S">
+
+<!ENTITY clear.label "Klīr">
+<!ENTITY clear.accesskey "l">

@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+   - Kontents välideiten für SeaMonkey v2.
+   - Modifaien from jenereiten fayl from MozLCDB, http://moztw.org/tools/mozlcdb -->
+
+<!ENTITY history.title "Ùpdeit històri">
+<!ENTITY history.intro "Folowen ùpdeit wa instolen:">
+<!ENTITY closebutton.label "Klos">
+
+<!ENTITY noupdates.label "Mwu instolen ùpdeit">
+
+<!ENTITY name.header "Ùpdeit dè neim">
+<!ENTITY date.header "Deit instolen">
+<!ENTITY type.header "Taip">
+<!ENTITY state.header "Steitùs">
+

@@ -1,0 +1,15 @@
+<!ENTITY window.width                                   "30em">
+
+<!ENTITY languages.customize.Header                     "Leŋgueijs">
+<!ENTITY languages.customize.prefLangDescript           "有些網頁提供多國語言版本，可在此設定您的偏好順序。">
+<!ENTITY languages.customize.active.label               "依下面的順序搜尋可用的語言:">
+<!ENTITY languages.customize.moveUp.label               "Ùp">
+<!ENTITY languages.customize.moveUp.accesskey           "U">
+<!ENTITY languages.customize.moveDown.label             "Dawn">
+<!ENTITY languages.customize.moveDown.accesskey         "D">
+<!ENTITY languages.customize.deleteButton.label         "Rīmūv">
+<!ENTITY languages.customize.deleteButton.accesskey     "R">
+<!ENTITY languages.customize.selectLanguage.label       "Silekt leŋgueij tu ädd…">
+<!ENTITY languages.customize.addButton.label            "Ädd">
+<!ENTITY languages.customize.addButton.accesskey        "A">
+

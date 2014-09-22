@@ -1,0 +1,23 @@
+override chrome://global/locale/netError.dtd chrome://browser/locale/netError.dtd
+locale branding bb-BK jar:chrome/bb-BK.jar!/locale/branding/
+locale alerts bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/alerts/
+locale browser bb-BK jar:chrome/bb-BK.jar!/locale/browser/
+locale passwordmgr bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/passwordmgr/
+locale mozapps bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/mozapps/
+override chrome://mozapps/locale/downloads/settingsChange.dtd chrome://browser/locale/downloads/settingsChange.dtd
+override chrome://global/locale/appstrings.properties chrome://browser/locale/appstrings.properties
+locale testpilot bb-BK jar:chrome/bb-BK.jar!/locale/feedback/
+locale places bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/places/
+locale necko bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/necko/
+locale browser-region bb-BK jar:chrome/bb-BK.jar!/locale/browser-region/
+locale cookie bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/cookie/
+locale autoconfig bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/autoconfig/
+locale global-region bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/global-region/
+locale pipnss bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/pipnss/
+locale global bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/global/
+locale global-platform bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/global-platform/
+locale pdf.js bb-BK jar:chrome/bb-BK.jar!/locale/pdfviewer/
+locale weave bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/
+locale pippki bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/pippki/
+locale reporter bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/reporter/
+locale help bb-BK jar:chrome/bb-BK.jar!/locale/bb-BK/help/
