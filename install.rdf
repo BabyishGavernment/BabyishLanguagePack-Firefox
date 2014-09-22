@@ -5,7 +5,7 @@
         <em:id>langpack-bb@mimosapudica.org</em:id>
 	<em:name>Babyish Language Pack for Firefox</em:name>
         <em:description>Babyish Language Pack for Firefox v0.0.6, suitable up to v22.0</em:description>
-        <em:version>0.0.6</em:version>
+        <em:version>0.0.8</em:version>
         <em:type>8</em:type> <!-- 8 : Language Pack -->
         <em:creator>Tom K. C. Chiu</em:creator>
         <em:contributor>babyish.wikia.com</em:contributor> 
@@ -15,7 +15,7 @@
                 <!-- Firefox dè yusàbol vörçions -->
                 <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
                 <em:minVersion>2.0a1</em:minVersion>
-                <em:maxVersion>24.0</em:maxVersion>
+                <em:maxVersion>32.0</em:maxVersion>
             </Description>
         </em:targetApplication>
     </Description>
