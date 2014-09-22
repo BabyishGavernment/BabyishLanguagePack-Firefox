@@ -18,7 +18,7 @@
 <!ENTITY community.exp.creditsLink  "global community">
 <!ENTITY community.exp.end          " working together to keep the Web open, public and accessible to all.">
 
-<!ENTITY community.start2           "&brandShortName; is designed by ">
+<!ENTITY community.start2           "&brandShortName; wa disaianen bai ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a ">
@@ -54,9 +54,9 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Update failed. ">
-<!ENTITY update.failed.linkText     "Download the latest version">
-<!ENTITY update.failed.end          "">
+<!ENTITY update.failed.start        "Ùpdeit fäilen. ">
+<!ENTITY update.failed.linkText     "Dawnloud leitest vörçion na">
+<!ENTITY update.failed.end          "Firefox.">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -70,10 +70,10 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Downloading update — ">
-<!ENTITY update.downloading.end     "">
+<!ENTITY update.downloading.start   "Dawnloudiŋ ùpdeit……">
+<!ENTITY update.downloading.end     "gè.">
 
-<!ENTITY update.applying            "Applying update…">
+<!ENTITY update.applying            "Applaiiŋ ùpdeit…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
